@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  	
+  	<head>
+    	<link type="text/css" rel="stylesheet" href="assignment1style.css"/>
+    	<script type="text/javascript" src="assignment1script.js"></script>
+    	<title>ASSIGNMENT ONE</title>
+  	</head>
+	
+	<body>
+  		<div id="header">
+  			<h1>This is our first assignment.</h1>
+  		</div>
+  		<p>In my free time, I like to read, listen to podcasts, and watch movies. Here are some of my favorite movies:</p>
+  		<div>
+  			<table>
+      			<tr>
+       	 			<td><img src="http://upload.wikimedia.org/wikipedia/en/a/ae/Bottle-Rocket.jpg"/></td>
+        			<td><img src="http://ia.media-imdb.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@._V1_SX640_SY720_.jpg"/></td>
+        			<td><img src="http://www.impawards.com/2013/posters/only_lovers_left_alive_ver3.jpg"/></td>
+        			<td><img src="http://ia.media-imdb.com/images/M/MV5BMTg0MDU4NjI1OV5BMl5BanBnXkFtZTgwOTY3NDc3MTE@._V1_SX640_SY720_.jpg"/></td>
+      			</tr>
+      		</table>
+  		</div>
+	</body>
+
+</html>
+
